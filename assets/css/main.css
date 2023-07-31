@@ -3220,3 +3220,11 @@ input, select, textarea {
 			}
 
 	}
+
+.background-images {
+	display: flex;
+	flex-direction: row;
+	width: 200px;
+	max-width: fit-content;
+	height: auto;
+}
