@@ -27,6 +27,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		Freepik (flaticon.com)
 
 	Other:
 		jQuery (jquery.com)

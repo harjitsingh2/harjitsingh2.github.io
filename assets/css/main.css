@@ -3228,3 +3228,14 @@ input, select, textarea {
 	max-width: fit-content;
 	height: auto;
 }
+
+#skills-images {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	width: 200px;
+	max-width: 200px;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
