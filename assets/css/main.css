@@ -3224,18 +3224,26 @@ input, select, textarea {
 .background-images {
 	display: flex;
 	flex-direction: row;
+	align-items: center;
+}
+
+#background-images {
 	width: 200px;
-	max-width: fit-content;
 	height: auto;
+	padding: 10px;
+}
+
+.skills-images {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	max-width: 600px;
+	align-items: center;
 }
 
 #skills-images {
 	list-style: none;
-	display: flex;
-	flex-direction: row;
-	width: 200px;
-	max-width: 200px;
+	width: 100px;
 	height: auto;
-	margin: 0;
-	padding: 0;
+	padding: 10px;
 }
