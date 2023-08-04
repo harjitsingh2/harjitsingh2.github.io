@@ -3247,3 +3247,7 @@ input, select, textarea {
 	height: auto;
 	padding: 10px;
 }
+
+#project-name {
+	color: black;
+}
