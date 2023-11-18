@@ -3225,6 +3225,7 @@ input, select, textarea {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
+	max-width: 600px;
 }
 
 #background-images {
@@ -3237,13 +3238,13 @@ input, select, textarea {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	max-width: 600px;
+	/* max-width: 600px; */
 	align-items: center;
 }
 
 #skills-images {
 	list-style: none;
-	width: 100px;
+	width: 120px;
 	height: auto;
 	padding: 10px;
 }
